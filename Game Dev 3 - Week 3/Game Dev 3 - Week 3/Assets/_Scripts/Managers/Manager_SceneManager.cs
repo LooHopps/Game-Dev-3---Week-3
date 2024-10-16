@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace GameDevWithMarco.ObservePattern
+namespace GameDevWithMarco.Managers
 {
     public class Manager_SceneManager : MonoBehaviour
     {

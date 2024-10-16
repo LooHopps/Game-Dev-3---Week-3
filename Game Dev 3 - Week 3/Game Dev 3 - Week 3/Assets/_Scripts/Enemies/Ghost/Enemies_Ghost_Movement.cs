@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Pathfinding;
 
-namespace GameDevWithMarco.ObservePattern
+namespace GameDevWithMarco.Enemies
 {
     public class Enemies_Ghost_Movement : MonoBehaviour
     {

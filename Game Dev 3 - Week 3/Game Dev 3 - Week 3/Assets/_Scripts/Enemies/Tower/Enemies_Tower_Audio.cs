@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GameDevWithMarco.ObservePattern
+namespace GameDevWithMarco.Enemies
 {
     public class Enemies_Tower_Audio : MonoBehaviour
     {

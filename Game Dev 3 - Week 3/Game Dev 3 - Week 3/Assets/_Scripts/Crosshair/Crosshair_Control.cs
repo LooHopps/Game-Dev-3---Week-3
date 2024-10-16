@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GameDevWithMarco.ObservePattern
+namespace GameDevWithMarco.Crosshair
 {
     public class Crosshair_Control : MonoBehaviour
     {
